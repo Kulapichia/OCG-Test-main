@@ -1,8 +1,8 @@
 # 🔑 API Key 测活工具
 > 一个现代化的在线工具，批量检测 OpenAI、Claude、Gemini API 密钥有效性
 
-[![GitHub stars](https://img.shields.io/github/stars/swhesong/api-key-tester?style=flat&color=yellow)](https://github.com/swhesong/api-key-tester)
-[![在线使用](https://img.shields.io/badge/在线使用-GitHub%20Pages-blue)](https://swhesong.github.io/api-key-tester)
+[![GitHub stars](https://img.shields.io/github/stars/Kulapichia/api-key-tester?style=flat&color=yellow)](https://github.com/Kulapichia/api-key-tester)
+[![在线使用](https://img.shields.io/badge/在线使用-GitHub%20Pages-blue)](https://Kulapichia.github.io/api-key-tester)
 
 ## ✨ 功能
 
@@ -19,7 +19,7 @@
 
 ## 🚀 使用
 
-1. 访问：**https://swhesong.github.io/OAI-Gemini-Claude-Test/**
+1. 访问：**https://Kulapichia.github.io/OAI-Gemini-Claude-Test/**
 2. 选择 API 类型
 3. 填写代理服务器 URL（必需）
 4. 粘贴 API 密钥列表
@@ -441,4 +441,4 @@ MIT License
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=swhesong/api-key-tester&type=Date)](https://www.star-history.com/#swhesong/api-key-tester&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Kulapichia/api-key-tester&type=Date)](https://www.star-history.com/#Kulapichia/api-key-tester&Date)
